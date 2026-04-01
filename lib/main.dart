@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+// import 'package:flutter_application_sample/modules/onboarding/view/onboarding_view.dart';
 import 'package:flutter_application_sample/modules/splash/view/splash.dart';
+// import 'package:flutter_application_sample/modules/splash/view/splash.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 
 // import 'package:store_app/modules/splash/view/splash_view.dart';
